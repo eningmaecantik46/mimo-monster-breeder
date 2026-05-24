@@ -40,6 +40,37 @@ Evolve monsters at level 25 to unlock new forms and powerful skills.
 - **Icons:** Lucide React
 - **Deployment:** Netlify (static export)
 
+## Live Deployment
+
+**🌐 Live Site:** https://mimo-monster-breeder.netlify.app/
+
+**Deployment Status:** ✅ Successfully deployed to Netlify (May 24, 2026)
+
+**Features Live:**
+- 🥚 Hatch AI-generated monsters
+- 📊 Train & level up stats
+- ⚔️ 1v1 turn-based battles
+- 🔄 Evolution at level 25
+- 💾 localStorage persistence
+
+## MiMo AI V2.5 Pro Integration
+
+**✅ Integration Status:** Successfully implemented
+
+**AI-Powered Features:**
+1. **Monster Generation** — Unique names, personalities, and skills
+2. **Skill Generation** — New attack/defense skills for training/evolution
+3. **Evolution Generation** — Lore-based evolution stories and new forms
+4. **Battle Commentary** — Real-time AI-generated battle narration
+
+**API Endpoints Implemented:**
+- `POST /api/generate/monster` — Generate new monster with personality
+- `POST /api/generate/skill` — Generate new skill for monster
+- `POST /api/generate/evolution` — Generate evolution data at level 25
+- `POST /api/generate/battle-commentary` — Generate real-time battle commentary
+
+**Fallback System:** If MiMo API is unavailable, uses local generation with similar quality.
+
 ## Getting Started
 
 ### Prerequisites
