@@ -10,6 +10,28 @@ AI-powered monster collection game. Hatch, train, battle, and evolve unique mons
 - **🔄 Evolution** — Evolve monsters at level 25 for new forms and powerful skills
 - **💾 Local Storage** — All progress saved in browser localStorage
 
+## Screenshots
+
+### 1. Home - Hatch & Stats
+![Home Screen](./public/screenshots/1-home.png)
+Hatch new monsters, view your essence balance, and track battle statistics.
+
+### 2. Collection - Your Monsters
+![Collection Screen](./public/screenshots/2-collection.png)
+Browse all your monsters with stats, rarity, and quick action buttons.
+
+### 3. Battle - 1v1 Combat
+![Battle Screen](./public/screenshots/3-battle.png)
+Turn-based battles with real-time HP tracking and AI-generated commentary.
+
+### 4. Training - Level Up Stats
+![Training Screen](./public/screenshots/4-training.png)
+Spend essence to increase HP, ATK, and DEF stats for your monsters.
+
+### 5. Evolution - Unlock New Forms
+![Evolution Screen](./public/screenshots/5-evolution.png)
+Evolve monsters at level 25 to unlock new forms and powerful skills.
+
 ## Tech Stack
 
 - **Frontend:** Next.js 14 + TypeScript + Tailwind CSS
